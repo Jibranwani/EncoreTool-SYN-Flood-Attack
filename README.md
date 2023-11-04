@@ -21,7 +21,6 @@ cd Python-SYN-Flood-Attack-Tool
 ```
 python3 py_syn_cmd.py -t 10.20.30.40 -p 8080 -c 5
 python3 py_synflood.py
-python SYN-ATTACK.py
 ```
 ```
 usage: py3_synflood_cmd.py [-h] [--target TARGET] [--port PORT]
