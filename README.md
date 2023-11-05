@@ -15,7 +15,7 @@ apt install python3-scapy
 git clone https://github.com/Jibranwani/EncoreTool.git
 cd Python-SYN-Flood-Attack-Tool
 ```
-![alt text]()
+![alt text](attackdesc.png)
 ## Usage
 
 ```
