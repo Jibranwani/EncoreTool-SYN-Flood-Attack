@@ -15,10 +15,11 @@ git clone https://github.com/Jibranwani/EncoreTool.git
 cd Python-SYN-Flood-Attack-Tool
 ```
 ![alt text](attackdesc.png)
+
 ## Usage
 
 ```
-python3 py_syn_cmd.py -t 10.20.30.40 -p 8080 -c 5
+python3 py_syn_cmd.py -t 159.89.173.104 -p 8080 -c 5
 python3 py_synflood.py
 ```
 ```
